@@ -73,10 +73,11 @@ header {
 }
 header .banner {
     position: relative;
-    width: 100%;
+    width: 1515px;
     height: 500px;
     background: url(../img/0.jpg) no-repeat;
-    background-size: cover;
+    background-size: 1512px;
+    margin: 0 auto;
     transition: 1s;
 }
 header .banner ol {
